@@ -1,6 +1,6 @@
 # Backup Script per Linux
 
-Questo repository contiene uno script Bash per eseguire il backup di una directory specifica in un file compresso `.tar.gz`.
+Questo repository contiene uno script Bash per eseguire il backup di una directory specifica in un file compresso.
 
 ## Requisiti
 
@@ -9,7 +9,7 @@ Questo repository contiene uno script Bash per eseguire il backup di una directo
 
 ## Installazione
 
-1. Clona il repository o scarica il file `backup.sh`.
+1. Clona il repository o scarica il file `backup_dir.sh`.
 
    ```sh
    git clone https://github.com/matsim00/backup_dir_linux.git
@@ -18,7 +18,7 @@ Questo repository contiene uno script Bash per eseguire il backup di una directo
 2. Concedi i permessi di esecuzione allo script:
    
    ```sh
-   chmod +x backup.sh
+   chmod +x backup_dir.sh
    ```
 
 3. Modifica il file `backup.sh` per specificare:

@@ -12,8 +12,7 @@ Questo repository contiene uno script Bash per eseguire il backup di una directo
 1. Clona il repository o scarica il file `backup.sh`.
 
    ```sh
-   git clone https://github.com/tuo-utente/nome-repository.git
-   cd nome-repository
+   git clone https://github.com/matsim00/backup_dir_linux.git
    ```
 
 2. Concedi i permessi di esecuzione allo script:
